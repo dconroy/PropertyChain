@@ -179,7 +179,7 @@ def main():
     property_data["parcel_id"] = "51122311"
 
     property_data2["id"] = "US88888006038419"
-    property_data2["description"] = "256 Second Ave, Waltam, MA, 02451"
+    property_data2["description"] = "256 Second Ave, Waltham, MA, 02451"
     property_data2["date"] = "1980"
     property_data2["assoc_id"] = "1586"
     property_data2["apn"] = "00"
