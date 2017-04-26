@@ -6,12 +6,6 @@ Distributed REALTOR PUID Tracking on Hyperledger Fabric
   <img src="https://raw.githubusercontent.com/dconroy/PropertyChain/master/client/assets/images/ss1.png" alt="NAR Blockchain Screenshot"/>
 </p>
 
-<p></p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dconroy/PropertyChain/master/client/assets/images/ss2.png" alt="NAR Blockchain Screenshot"/>
-</p>
 
 
 There is a simple AngularJS frontend application, a NodeJS backend application and of course a blockchain network. Locally, the app starts up a blockchain network using Docker containers; on Bluemix you can use the Blockchain service.
