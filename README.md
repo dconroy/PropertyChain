@@ -1,5 +1,5 @@
 # PropertyChain - FOR DEMONSTRATION ONLY
-Distributed REALTOR PUID Tracking on Hyperledger Fabric
+Distributed PUID Tracking on Hyperledger Fabric
 
 
 <p align="center">
