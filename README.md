@@ -1,4 +1,4 @@
-# PUIDOnChain - FOR DEMONSTRATION ONLY
+# PropertyChain - FOR DEMONSTRATION ONLY
 Distributed REALTOR PUID Tracking on Hyperledger Fabric
 
 
@@ -40,8 +40,8 @@ Once you have installed _node_ and _npm_, you can install the module with: `npm 
 
 ### Cloning and installing
 Use git clone from your preferred workspace folder to clone your project-code with:  
-1. git clone https://github.com/NationalAssociationOfRealtors/PUIDOnChain.git   
-2. cd `PUIDOnChain` and run `npm install`  
+1. git clone https://github.com/dconroy/PropertyChain.git   
+2. cd `PropertyChain` and run `npm install`  
 
 ### Setting up Hyperledger Fabric
 1. Pull _peer_ image: `docker pull hyperledger/fabric-peer:x86_64-0.6.1-preview`
@@ -59,7 +59,7 @@ hyperledger/fabric-peer         x86_64-0.6.1-preview   21cb00fb27f4
 ```
 
 ## Running the application automatically
-From your WORKSPACE/PUIDOnChain folder:
+From your WORKSPACE/PropertyChain folder:
 
 > docker-compose up
 
@@ -67,7 +67,7 @@ This will start up a local blockchain network with two validating peers and a me
 The first time you run this script it will take a little while to download the necessary images.
 
 You can see if your local blockchain network is running by going to `localhost:7050/chain` in your browser.
-Once the network is up and running, open a second terminal and from your WORKSPACE/PUIDOnChain folder:
+Once the network is up and running, open a second terminal and from your WORKSPACE/PropertyChain folder:
 
 > npm start
 
@@ -75,7 +75,7 @@ This will start up a NodeJS application that serves the frontend, deploys the ch
 
 Check if the app is running at `http://localhost:8080/` in your browser. You can login with the user credentials you find in `testData/testData.json`  
 
-To make local development easier there is a script that will cleanup your environment, start the blockchain network and run the app. From your _WORKSPACE/fPUIDOnChain_ folder:
+To make local development easier there is a script that will cleanup your environment, start the blockchain network and run the app. From your _WORKSPACE/fPropertyChain_ folder:
 
 **Warning:** This script ask you either to clean or not your environment. Be aware answering **yes** you will **permanently deleted** all your containers (not images).
 
