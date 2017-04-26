@@ -171,7 +171,7 @@ def main():
     property_data2 = {}
 
     property_data["id"] = "US99999006038419"
-    property_data["description"] = "1400 Main Street, Waltham, MA 02451"
+    property_data["description"] = "1400 Main Street, Waltham, MA, 02451"
     property_data["date"] = "1982"
     property_data["assoc_id"] = "1586"
     property_data["apn"] = "00"

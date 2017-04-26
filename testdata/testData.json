@@ -47,7 +47,7 @@
 		},
 		{
 			"id":"US22055006038408",
-			"description":"456 Main Street, Austin, TX 12431",
+			"description":"456 Main Street, Austin, TX, 12431",
 			"date": "2017",
 			"assoc_id":"0840",
 			"apn":"22",
@@ -56,7 +56,7 @@
 		},
 		{
 			"id":"US22055006038409",
-			"description":"12 Elm Rd, Latham, NY 12211",
+			"description":"12 Elm Rd, Latham, NY, 12211",
 			"date": "1925",
 			"assoc_id":"1586",
 			"apn":"23",
@@ -65,7 +65,7 @@
 		},
 		{
 			"id":"US10055006038419",
-			"description":"99 Alberts Ave, Billings, MT 23142",
+			"description":"99 Alberts Ave, Billings, MT, 23142",
 			"date": "2016",
 			"assoc_id":"1586",
 			"apn":"23",
