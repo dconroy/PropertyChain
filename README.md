@@ -6,6 +6,9 @@ Distributed REALTOR PUID Tracking on Hyperledger Fabric
   <img src="https://raw.githubusercontent.com/dconroy/PropertyChain/master/client/assets/images/ss1.png" alt="NAR Blockchain Screenshot"/>
 </p>
 
+<p></p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/dconroy/PropertyChain/master/client/assets/images/ss2.png" alt="NAR Blockchain Screenshot"/>
 </p>
