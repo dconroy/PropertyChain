@@ -3,11 +3,11 @@ Distributed REALTOR PUID Tracking on Hyperledger Fabric
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NationalAssociationOfRealtors/PUIDOnChain/master/client/assets/images/ss1.png" alt="NAR Blockchain Screenshot"/>
+  <img src="https://raw.githubusercontent.com/dconroy/PropertyChain/master/client/assets/images/ss1.png" alt="NAR Blockchain Screenshot"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NationalAssociationOfRealtors/PUIDOnChain/master/client/assets/images/ss2.png" alt="NAR Blockchain Screenshot"/>
+  <img src="https://raw.githubusercontent.com/dconroy/PropertyChain/master/client/assets/images/ss2.png" alt="NAR Blockchain Screenshot"/>
 </p>
 
 
@@ -267,4 +267,3 @@ If the problem persists, look first for similar discussions about that issue and
 [Learn chaincode](https://github.com/IBM-Blockchain/learn-chaincode)
 
 [Hyperldger Fabric Client SDK (HFC)](https://fabric-sdk-node.readthedocs.io/en/latest/)
-
