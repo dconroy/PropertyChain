@@ -1,0 +1,85 @@
+{
+	"users":[
+		{
+			"id":"SuperAdministrator",
+			"password":"passw0rd",
+			"firstName":"Dave",
+			"lastName":"Conroy",
+			"things":["US22055006038404","US22055006038408","US22055006038409","US10055006038419","US19055006038418","US88888006038419","US99999006038419"],
+			"address": "21 Boston St, Somerville, MA, 02143",
+			"phoneNumber": "0900 0048",
+			"emailAddress": "johndoe@gmail.com",
+			"role": 0
+		},
+		{
+			"id":"vendor",
+			"password":"passw0rd",
+			"firstName":"cityclerk",
+			"lastName":"thirdparty",
+			"things":["US88888006038419","US99999006038419"],
+			"address": "21 Boston St, Somerville, MA, 02143",
+			"phoneNumber": "0900 0048",
+			"emailAddress": "johndoe2@gmail.com",
+			"role": 0
+		},
+		{
+			"id":"mls",
+			"password":"passw0rd",
+			"firstName":"First",
+			"lastName":"Leet MLS",
+			"things":["US22055006038404","US22055006038408", "US22055006038409","US10055006038419","US19055006038418"],
+			"address": "21 Boston St, Somerville, MA, 02143",
+			"phoneNumber": "0900 0048",
+			"emailAddress": "johndoe2@gmail.com",
+			"role": 0
+		}
+
+	],
+	"things":[
+		{
+			"id":"US22055006038404",
+			"description":"2129 N Campbell St, Chicago, IL, 60647",
+			"date": "2016",
+			"assoc_id":"1",
+			"apn":"21",
+			"puid":"US22055006038404",
+			"parcel_id": "59032517"
+		},
+		{
+			"id":"US22055006038408",
+			"description":"456 Main Street, Austin, TX 12431",
+			"date": "2017",
+			"assoc_id":"0840",
+			"apn":"22",
+			"puid":"US22055006038408",
+			"parcel_id": "59032516"
+		},
+		{
+			"id":"US22055006038409",
+			"description":"12 Elm Rd, Latham, NY 12211",
+			"date": "1925",
+			"assoc_id":"1586",
+			"apn":"23",
+			"puid":"US22055006038409",
+			"parcel_id": "59032519"
+		},
+		{
+			"id":"US10055006038419",
+			"description":"99 Alberts Ave, Billings, MT 23142",
+			"date": "2016",
+			"assoc_id":"1586",
+			"apn":"23",
+			"puid":"US22055006038409",
+			"parcel_id": "59022514"
+		},
+		{
+			"id":"US19055006038418",
+			"description":"430 N Michigan Ave, Topeka, KS, 70123",
+			"date": "1999",
+			"assoc_id":"1586",
+			"apn":"23",
+			"puid":"US22055006048409",
+			"parcel_id": "59032610"
+		}
+	]
+}

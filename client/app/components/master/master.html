@@ -1,0 +1,14 @@
+<header-bar></header-bar>
+<table class="table text-center"><tr><td align="left">
+  <h3>User: {{header.user.firstName}} {{header.user.lastName}}<br>
+  Role: {{header.user.id}}<br>
+  Associated Properties:
+  <ul>
+    <div class="link" ng-repeat="thing in master.things" ng-click="master.openThing(thing.id)">
+         <li>PUID:{{thing.id}} - {{thing.description}}</li>
+    </div>
+  </ul>
+</h3>
+</div>
+</td></tr></table>
+<footer-bar></footer-bar>

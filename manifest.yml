@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  name: APP_NAME
+  host: HOST_NAME
+  disk_quota: 1024M
+  command: "NODE_ENV=production node app.js"
+services:
+- BLOCKCHAIN_SERVICE
